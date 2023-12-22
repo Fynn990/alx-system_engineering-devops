@@ -1,0 +1,1 @@
+server configuration management (IT Automation) is a solution for turning your infrastructure administration into a codebase, describing all processes necessary for deploying a server in a set of provisioning scripts that can be versioned and easily reused. It improves the integrity of any server infrastructure over time.
